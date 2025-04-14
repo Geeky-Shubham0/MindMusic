@@ -8,7 +8,7 @@ AI-Driven Music App that detects your brain state using a simulated API and open
 - Built with JavaFX and Java Desktop API
 
 ## Demo
-![](demo.gif)  <!-- Optional if you want to upload a GIF/screenshot -->
+![img.png](img.png)  <!-- Optional if you want to upload a GIF/screenshot -->
 
 ## How to Run
 1. Clone the repo
